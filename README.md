@@ -7,6 +7,6 @@ This Specialization will teach you to optimize website content for the best poss
 
 [SEO Fundmentals](Fundmentals/README.md)
 
-[Optimizing a Website for Search](Website/README.md)
+[Optimizing a Website for Search](Websites/README.md)
 
 [Advanced Content and Social Tactics to Optimize SEO](Advanced/README.md)
